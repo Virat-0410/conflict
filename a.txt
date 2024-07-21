@@ -1,2 +1,3 @@
 Original file of master
 
+feature2 added by developer2
